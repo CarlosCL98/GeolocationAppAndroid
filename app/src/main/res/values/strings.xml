@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeolocationApp</string>
+    <string name="button_text">See the map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_find_address">FIND ADDRESS</string>
+    <string name="text_hint_address">Address</string>
+    <string name="input_address">Input Address</string>
+    <string name="no_location_data_provided">There is not location data provided</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_found">Address found</string>
+    <string name="service_not_available">The service is not available</string>
+    <string name="invalid_lat_long_used">Invalid lat or long used</string>
+</resources>
